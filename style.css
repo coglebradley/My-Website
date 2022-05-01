@@ -1,0 +1,29 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+body{
+    background-color: rgb(123, 231, 235);
+}
+.legend{
+    border: 1px white;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding: 15px;
+}
+.navElement
+{
+    margin: 2%;
+}
+.Disc
+{
+    width: 350px;
+    height: auto
+}
